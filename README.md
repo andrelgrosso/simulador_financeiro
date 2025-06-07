@@ -1,8 +1,3 @@
-![Screenshot_1](https://github.com/user-attachments/assets/7efa31d0-2e25-41c5-bdbc-6cbe529def45)
-![Screenshot_2](https://github.com/user-attachments/assets/01275eb8-e2dc-40cd-adf3-f7f3b6540664)
-![Screenshot_3](https://github.com/user-attachments/assets/9d5c12de-1255-4db0-a3a7-06cad1774b44)
-
-
 # simulador_financeiro
 
 ## 👋 Olá! Eu sou o André
